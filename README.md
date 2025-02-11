@@ -1,6 +1,6 @@
 # OB-GYN Ultrasound
 
-[![Download from GitHub](https://img.shields.io/github/repo-size/MedPocket/OB-GYN?logo=github&label=Download)](https://github.com/MedPocket/OB-GYN/archive/refs/heads/main.zip)
+[![Download from GitHub](https://img.shields.io/github/repo-size/MedPocket/OB-GYN-Ultrasound?logo=github&label=Download)](https://github.com/MedPocket/OB-GYN-Ultrasound/archive/refs/heads/main.zip)
 
 Obstetric ultrasound uses sound waves to produce pictures of a baby (embryo or fetus) within a pregnant woman, as well as the mother's uterus and ovaries. It does not use ionizing radiation, has no known harmful effects, and is the preferred method for monitoring pregnant women and their unborn babies. A Doppler ultrasound study – a technique that evaluates blood flow in the umbilical cord, fetus or placenta – may be part of this exam.
 
